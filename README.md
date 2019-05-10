@@ -5,3 +5,7 @@
 ## Test - Query Selection examples
 
 - Fetch all CSS classes of a tag -> `items.component.spec.ts`
+
+## Testing
+
+- Running an Angular project with Jest -> branch: `running-tests-with-jest`
